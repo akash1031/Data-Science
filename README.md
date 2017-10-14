@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# **Data Science Portfolio**
 
-## Akash Chandrakar
+## **Akash Chandrakar**
 
 ## The University of Texas at Dallas
 
