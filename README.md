@@ -1,7 +1,7 @@
-Data Science Portfolio
+#Data Science Portfolio
 
-Akash Chandrakar
+##Akash Chandrakar
 
-The University of Texas at Dallas
+##The University of Texas at Dallas
 
-akash.chandrakar@utdallas.edu
+###akash.chandrakar@utdallas.edu
